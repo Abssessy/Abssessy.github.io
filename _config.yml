@@ -33,6 +33,8 @@ author:
 
   # Academic websites
   orcid            : "https://orcid.org/0009-0007-3462-6772"
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7178754"
+  Mendeley data    : "https://data.mendeley.com/my-data/"
   semantic         : # URL
   researchgate     : # URL
   scopus           : # URL
