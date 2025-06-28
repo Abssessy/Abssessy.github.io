@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Personal Websites"
+title: "Academic Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. Wang Q.Y.](https://economics.nankai.
 
 You can find my CV here: [Chufan Lai's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:2120233504@mail.nku.edu.cn) / [Github](https://github.com/Abssessy) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:2120233504@mail.nku.edu.cn) / [Github](https://github.com/Abssessy) 
