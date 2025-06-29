@@ -12,13 +12,13 @@ main:
   url: /publications/  
 
 - title: "Teaching"
-  url: /teaching/    
+  url: /teaching/  
+  
+- title: "Conferences"
+　url: /talks/  
 
-#- title: "Conferences"
- # url: /talks/  
-
-#- title: "Project"
- # url: /portfolio/
+- title: "Project"
+  url: /portfolio/
         
 #   - title: "Blog Posts"
  #    url: /year-archive/
