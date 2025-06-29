@@ -13,9 +13,9 @@ main:
 - title: "Teaching"
   url: /teaching/  
 - title: "Conferences"
-  url: /talks/
+  url: /talks/  
 - title: "Projects"
-  url: /portfolio/
+  url: /portfolio/ 
         
 #   - title: "Blog Posts"
  #    url: /year-archive/
