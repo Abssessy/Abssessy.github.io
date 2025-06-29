@@ -15,10 +15,10 @@ main:
   url: /teaching/  
   
 - title: "Conferences"
-　url: /conferences/  
+  url: /talks/  
 
 - title: "Projects"
-  url: /projects/
+  url: /portfolio/
         
 #   - title: "Blog Posts"
  #    url: /year-archive/
