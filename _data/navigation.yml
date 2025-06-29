@@ -9,14 +9,14 @@
 
 main:
 - title: "Publications"
-  url: /publications/
-
-#- title: "Conferences"
- # url: /talks/    
+  url: /publications/  
 
 - title: "Teaching"
   url: /teaching/    
-    
+
+#- title: "Conferences"
+ # url: /talks/  
+
 #- title: "Project"
  # url: /portfolio/
         
