@@ -15,7 +15,10 @@ I am very fortunate to be advised by [Prof. Wang Q.Y.](https://economics.nankai.
 You can find my CV here: [Chufan Lai's Curriculum Vitae](../assets/Resume.pdf).
 
 Working paper:
+
 [Local Political Connections, Transaction Costs, and Input-output Linkages](../assets/manuscript.pdf)
-[Human Capital Mobility under the Iron Curtain: International Student Network and International Sanction Network](../assets/Working_Paper__ISN_.pdf) [Chinese Economists Society Camphor Young Scholar Best Paper](../assets/青苗最优论文奖.jpg)
+
+[Human Capital Mobility under the Iron Curtain: International Student Network and International Sanction Network](../assets/Working_Paper__ISN_.pdf) 
+([Chinese Economists Society Camphor Young Scholar Best Paper](../assets/青苗最优论文奖.jpg))
 
 [R Code Sample](../assets/code_sample_R.r); [State Code Sample](../assets/code_sample_Stata.do)
