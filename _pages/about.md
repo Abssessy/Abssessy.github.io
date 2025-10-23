@@ -22,3 +22,5 @@ Working paper:
 ([Chinese Economists Society Camphor Young Scholar Best Paper](../assets/青苗最优论文奖.jpg)).
 
 [R Code Sample](../assets/code_sample_R.r); [State Code Sample](../assets/code_sample_Stata.do)
+
+[Selected Conference](../assets/CONFERENCES.pdf)
