@@ -21,6 +21,10 @@ Working paper:
 [Human Capital Mobility under the Iron Curtain: International Student Network and International Sanction Network](../assets/Working_Paper__ISN_.pdf) 
 ([Chinese Economists Society Camphor Young Scholar Best Paper](../assets/青苗最优论文奖.jpg)).
 
-[R Code Sample](../assets/code_sample_R.r); [State Code Sample](../assets/code_sample_Stata.do)
+Code sample:
+
+[R](../assets/code_sample_R.r); [Stata](../assets/code_sample_Stata.do)
+
+Presentations:
 
 [Selected Conference](../assets/CONFERENCES.pdf)
