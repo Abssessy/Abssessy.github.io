@@ -18,7 +18,7 @@ Working paper:
 
 [Local Political Connections, Transaction Costs, and Input-output Linkages](../assets/manuscript.pdf).
 
-[Human Capital Mobility under the Iron Curtain: International Student Network and International Sanction Network](../assets/Working_Paper__ISN_.pdf) 
+[Human Capital Mobility under the Iron Curtain: International Student Network and International Sanction Network](../assets/Manuscript_ISN.pdf) 
 ([Chinese Economists Society Camphor Young Scholar Best Paper](../assets/青苗最优论文奖.jpg)).
 
 Code sample:
