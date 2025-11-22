@@ -12,7 +12,7 @@ I'm a third-year graduate student from [School of Economics](https://economics.n
 
 I am very fortunate to be advised by [Prof. Wang Q.Y.](https://economics.nankai.edu.cn/2019/1006/c16878a208342/page.htm) of the Institute of Quantitative Economics from the School of Economics, Nankai University. 
 
-You can find my CV here: [Chufan Lai's Curriculum Vitae](../assets/CV_ChufanLai.pdf).
+You can find my CV here: [Chufan Lai's Curriculum Vitae](../assets/CV.pdf).
 
 Working paper:
 
